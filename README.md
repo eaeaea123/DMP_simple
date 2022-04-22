@@ -17,4 +17,4 @@ The generated trajectory can be verified by matlab plotting
 
 Use it well !
 
-communicate with me： 384686257@q
+communicate with me： 384686257@qq.com
